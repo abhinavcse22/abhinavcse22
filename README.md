@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="abhinav.eth" width="100%" />
+  <img src="banner.jpg" alt="abhinav.eth" width="100%" />
 </div>
 
 <br/>
