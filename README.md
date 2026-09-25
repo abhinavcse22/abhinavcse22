@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @abhinavcse22
-- 👀 I’m interested in ML
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on LInkedin
-- 📫 How to reach me https://linktr.ee/abhinav_cse
+# Hi, I'm Abhinav 👋
 
-<!---
-abhinavcse22/abhinavcse22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build at the intersection of AI products, GTM, and developer ecosystems.
+
+Currently working on AI products and GTM at Zynd AI and building 0xSpace, a 50K+ developer community.
+
+### What I work on
+
+- AI products & agents
+- Product & GTM
+- Developer ecosystems
+- AI automation
+- APIs & workflows
+- Community-led growth
+
+### Currently learning
+
+- LLM application architecture
+- AI agents & tool calling
+- MCP
+- Product analytics
+- AI-native development workflows
+
+### Links
+
+LinkedIn:
+X:
+0xSpace:
